@@ -4,13 +4,14 @@ module.exports = {
   author: `jiwoong kim`,
   introduction: `Digital Transformation에 관심이 많습니다. Digital healthcare를 공부하고있습니다. 
   Android 개발자입니다. AI, Blockchain 등 가리지않습니다.`,
-  siteUrl: `https://gatsby-starter-bee.netlify.com`, // Your blog site url
+  siteUrl: `https://jiwoongkim.netlify.app/`, // Your blog site url
   social: {
     twitter: ``, // Your Twitter account
     github: ``, // Your GitHub account
     medium: ``, // Your Medium account
-    facebook: `rlawlwoong`, // Your Facebook account
-    linkedin: `jiwoong-kim-7219a9117`, // Your LinkedIn account
+    facebook: ``, // Your Facebook account
+    instagram: `jiwoong.kiiim`, // Your Facebook account
+    linkedin: ``, // Your LinkedIn account
   },
   icon: `content/assets/felog.png`, // Add your favicon
   keywords: [`blog`],
