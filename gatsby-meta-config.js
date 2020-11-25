@@ -2,7 +2,7 @@ module.exports = {
   title: `웅Log`,
   description: `이것저것 해보는 Blog 입니다`,
   author: `jiwoong kim`,
-  introduction: `Digital Transformation, Digital healthcare 
+  introduction: `Digital Transformation, Digital healthcare, 
   Android, AI, Blockchain 등 가리지않습니다.`,
   siteUrl: `https://jiwoongkim.netlify.app/`, // Your blog site url
   social: {
